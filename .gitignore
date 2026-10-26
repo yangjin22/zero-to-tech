@@ -10,7 +10,9 @@ build/
 dist/
 
 # python
-backend\.venv/
+backend/.venv/
+backend/__pycache__/
+*.pyc
 
 # editor
 .vscode/*
